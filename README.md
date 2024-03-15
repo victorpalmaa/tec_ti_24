@@ -1,2 +1,2 @@
 # tec_ti_24
-repositorio tec ti
+git criado para aula 3 - cronograma
